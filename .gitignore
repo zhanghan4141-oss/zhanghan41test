@@ -1,0 +1,18 @@
+﻿# IDE/project-local files
+.idea/
+*.iml
+
+# Java build outputs
+target/
+build/
+out/
+.gradle/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS metadata
+.DS_Store
+Thumbs.db
